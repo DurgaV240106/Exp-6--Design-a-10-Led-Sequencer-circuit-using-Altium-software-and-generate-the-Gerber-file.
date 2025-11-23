@@ -1,4 +1,4 @@
-# Exp-6--Design-a-10-Led-Sequencer-circuit-using-Altium-software-and-generate-the-Gerber-file.
+# Exp-8--Design-a-10-Led-Sequencer-circuit-using-Altium-software-and-generate-the-Gerber-file.
 # AIM:
 To design the schematic and PCB layout diagram of an LED Sequencer circui circuit using Altium software.
 # EQUIPMENT REQUIRED:
@@ -70,9 +70,13 @@ The circuit is powered by a DC supply (typically 5V or 9V) connected at the VCC 
  
 # EXPECTED OUTPUT:
 ## Schematic diagram:
+<img width="995" height="528" alt="image" src="https://github.com/user-attachments/assets/457617d9-58b1-4730-a00a-aa87680ee07f" />
+
  
 ## Layout diagram:
- 
+
+ <img width="998" height="527" alt="image" src="https://github.com/user-attachments/assets/5130c700-f3e6-42e7-9ad2-60c728c5d4d4" />
+
 # RESULT:
 Thus, the schematic and PCB layout for the LED sequencer circuit has been successfully designed using Altium software.
 
